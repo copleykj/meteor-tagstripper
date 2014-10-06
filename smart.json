@@ -1,0 +1,10 @@
+{
+  "name": "autolinker",
+  "description": "Autolinker.js packaged for Meteor with some slight additions and modifications",
+  "homepage": "https://github.com/copleykj/meteor-autolinker",
+  "author": "Kelly Copley <copleykj@gmail.com>",
+  "version": "1.0.0",
+  "git": "https://github.com/copleykj/meteor-autolinker.git",
+  "packages": {
+  }
+}
