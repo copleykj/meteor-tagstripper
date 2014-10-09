@@ -12,7 +12,7 @@ Package.onUse(function(api) {
     if(api.versionsFrom){
         api.versionsFrom('METEOR@0.9.1');
     }
-    api.use("templating", "client");
+    api.use("spacebars", "client");
 
     api.addFiles('tagstripper.js');
     api.addFiles('helpers.js', "client");
