@@ -3,7 +3,7 @@ Package.describe({
 
     summary: "HTML Tag stripper",
 
-    version: "1.0.0-pre1",
+    version: "1.0.0",
 
     git: "https://github.com/copleykj/meteor-tagstripper.git"
 });
